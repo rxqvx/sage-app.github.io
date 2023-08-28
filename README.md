@@ -1,5 +1,4 @@
 # Projeto SAGE - Modelagem de Software Orientado a Objetos
-SAGE(serviço de assinatura de games eletrônicos) application
 
 Integrantes:
 - Erico Medeiros Correia da Silva (22.221.051-0)
